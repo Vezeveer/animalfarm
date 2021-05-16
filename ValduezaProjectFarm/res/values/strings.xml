@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Farm Animal Creator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_welcome">Welcome to Farm Animal Creator, a simple app to create your favorite farm animal.</string>
+    <string name="btn_start">Start</string>
+    <string name="title_activity_form">Form</string>
+
+    <string-array name="animalTypes">
+        <item>dog</item>
+        <item>cat</item>
+        <item>horse</item>
+        <item>pig</item>
+        <item>cow</item>
+    </string-array>
+
+    <string name="txt_animal_type">What is the type of animal?</string>
+    <string name="txt_animal_name">What is the animal\'s name?</string>
+    <string name="hint_name">Name</string>
+    <string name="txt_color">What is it\'s color?</string>
+    <string name="radio_brown">brown</string>
+    <string name="radio_black">black</string>
+    <string name="radio_white">white</string>
+    <string name="btn_done">Done</string>
+    <string name="title_activity_details">Details</string>
+    <string name="imageview_description">Picture of Animal</string>
+    <string name="btn_speak">Speak</string>
+    <string name="btn_start_over">Start Over</string>
+
+</resources>
